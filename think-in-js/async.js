@@ -1,4 +1,3 @@
-/*
 const processOrder = (customer) => {
     console.log(`processing order for customer 1`);
 
@@ -12,8 +11,6 @@ const processOrder = (customer) => {
 console.log(`take order for customer 1`);
 processOrder();
 console.log(`completed order for customer 1`);
-*/
-
 
 
 
